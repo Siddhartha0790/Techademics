@@ -6,3 +6,4 @@ django-cors-headers==4.4.0
 djangorestframework==3.15.2
 python-dotenv==1.0.1
 google-generativeai==0.8.5
+ollama==0.5.1
